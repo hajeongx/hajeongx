@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=300&section=header&text=HajeongLee&fontSize=90&animation=twinkling)
 
 Hi👋 I'm Hajeong!  
-M.S. Student in Computer Software <br/>
+M.S. Student in Computer Science <br/>
 Focusing on 3D reconstruction at the intersection of Computer Graphics and Computer Vision 📐
 
 <br/>
